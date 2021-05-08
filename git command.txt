@@ -1,5 +1,0 @@
-git init
-git config user.name "HarshMathur86"
-git config user.email "99mharsh@gmail.com"
-git add .
-git commit -m "some init msg"
